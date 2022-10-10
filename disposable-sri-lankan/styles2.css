@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+form {
+    width: 700px;
+    overflow:hidden;
+}
+   
+label {
+    clear: both;
+    float: left;
+    width: 43%;
+}
+   
+input {
+    float: left;
+    width: 55%;
+}
