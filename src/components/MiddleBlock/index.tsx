@@ -4,7 +4,7 @@ import { Slide } from 'react-awesome-reveal';
 import { Button } from '../../common/Button';
 import {
     MiddleBlockSection,
-    Content,
+    // Content,
     ContentWrapper,
     ProjectGrid,
     ProjectCard,
