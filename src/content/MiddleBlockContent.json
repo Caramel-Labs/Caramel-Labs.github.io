@@ -1,6 +1,23 @@
 {
-    "title": "Introduce your product quickly & effectively",
-    "text": "Landy comes with multi-lingual support, all of the content is stored in the JSON files, so that you can manage the texts without having any prior knowledge in developing web applications using React.js.",
-    "button": "Get started"
-  }
-  
+  "title": "Our Projects",
+  "projects": [
+    {
+      "name": "Sapphire",
+      "image": "project1.jpg",
+      "description": "A brief description of Project 1.",
+      "link": "https://raw.githubusercontent.com/Caramel-Labs/CaramelLabs_Sapphire/refs/heads/main/sapphire.png"
+    },
+    {
+      "name": "Loop",
+      "image": "project2.jpg",
+      "description": "A brief description of Project 2.",
+      "link": "https://example.com/project2"
+    },
+    {
+      "name": "Exo",
+      "image": "project3.jpg",
+      "description": "A brief description of Project 3.",
+      "link": "https://example.com/project3"
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
-  "title": "Landing page template for developers & startups",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "title": "Software so good, it's a treat for your business",
+  "text": "At Caramel Labs, we craft beautifully designed websites and applications for businesses and entrepreneurs at all scales. Save weeks of development time and let us build your dream digital presence in minutes.",
   "button": [
     {
-      "title": "Explore"
+      "title": "Our work"
     },
     {
-      "title": "Learn more",
+      "title": "Get in touch",
       "color": "#fff"
     }
   ]
